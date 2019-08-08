@@ -9,7 +9,7 @@ The technology stack used for the development of the system are given below.
 
 
 ##  Installation
-1. Clone to your server root `git clone https://github.com/ashera96/N_Studio_Zumba.git`
+1. Clone to your server root 
 2. Run `composer install` to install all dependencies
 3. Create .env in application root `touch .env`
 4. Add your database details & optional sentry DNS
